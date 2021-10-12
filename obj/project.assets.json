@@ -48,19 +48,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\tarka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Artstation\\Artstation.csproj",
+      "projectUniqueName": "C:\\Coding\\C#\\Artstation\\Artstation.csproj",
       "projectName": "Artstation",
-      "projectPath": "C:\\C#\\Artstation\\Artstation.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Artstation\\obj\\",
+      "projectPath": "C:\\Coding\\C#\\Artstation\\Artstation.csproj",
+      "packagesPath": "C:\\Users\\tarka\\.nuget\\packages\\",
+      "outputPath": "C:\\Coding\\C#\\Artstation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tarka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

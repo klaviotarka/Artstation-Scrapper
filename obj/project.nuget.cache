@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3B/Gb7RN8QxDnxe4V4Qt3ByIru8z/GSA36NS7+uPk1g+rlbWviZP4u4F6gTWse+lPL5JUYasYKy2Tnjm4K8BMA==",
+  "dgSpecHash": "AIQ8tk9rxDfcdjnjXqVdSrX8IXS+bKiR85GTVwisyou5ipJim3RtOUINXYtUEO6P7yNCNsIOwiwlvS765m0l8w==",
   "success": true,
-  "projectFilePath": "C:\\C#\\Artstation\\Artstation.csproj",
+  "projectFilePath": "C:\\Coding\\C#\\Artstation\\Artstation.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\tarka\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }
