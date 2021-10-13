@@ -1,0 +1,6 @@
+C:\C#\Artstation\bin\Debug\net5.0\publish\Artstation.exe
+C:\C#\Artstation\bin\Debug\net5.0\publish\Artstation.dll
+C:\C#\Artstation\bin\Debug\net5.0\publish\Artstation.deps.json
+C:\C#\Artstation\bin\Debug\net5.0\publish\Artstation.runtimeconfig.json
+C:\C#\Artstation\bin\Debug\net5.0\publish\Artstation.pdb
+C:\C#\Artstation\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
