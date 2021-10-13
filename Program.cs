@@ -36,6 +36,25 @@ namespace Artstation
 
             return currentUrl;
         }
+
+        public string GetFormatedTitle(string title)
+        {
+            char[] charactersTooRemove = Path.GetInvalidFileNameChars(); 
+            string formated = title;
+
+            for (int i = 0; i < title.Length; i++)
+            {
+                for (int j = 0; j < charactersTooRemove.Length; j++)
+                {
+                    if (formated[i] == charactersTooRemove[j])
+                    {
+                        formated = formated.Replace(formated[i], ' ');
+                    }
+                }
+                
+            }
+            return formated;
+        }
     
     }
 
@@ -70,7 +89,10 @@ namespace Artstation
                     ProjectAssets projectAssets = JsonConvert.DeserializeObject<ProjectAssets>(await Program.client.GetStringAsync(temporaryUrl));
 
                     for (int j = 0; j < projectAssets.Data.Length; j ++)
-                        webClientDownload.DownloadFile(projectAssets.Data[j].ImageUrl, $"{folderPath}/{data.Data[i].Title}{j}.png");
+                    {
+                        string tempName = data.Data[i].GetFormatedTitle(data.Data[i].Title);
+                        webClientDownload.DownloadFile(projectAssets.Data[j].ImageUrl, $"{folderPath}/{tempName}{j}.png");
+                    }
                 }
             }
         }
