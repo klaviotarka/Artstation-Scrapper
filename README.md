@@ -14,9 +14,11 @@ Artstation Scrapper is a program that was intentionally built to help me find dr
 # **Examples with pictures**
 
 **Folder in desktop**
+
 <img src="https://user-images.githubusercontent.com/47726384/137093541-ff864153-a2df-4f1b-a102-44841959e8b4.png" width="100" height="100">
 
 **Images inside the folder**
+
 <img src="https://user-images.githubusercontent.com/47726384/137093564-745de4df-4c8a-495c-b903-daefb5b72892.png" width="750" height="400">
 
 
