@@ -2,6 +2,8 @@
 
 Artstation Scrapper is a program that was intentionally built to help me find drawing references. It was really annoying finding good pictures ad not remebering their URL after a few hours anymore, so they were lost forever. This may not be the best solution but we can fix this problem by just downloading the images (LOTS) in our Desktop and they will server both as eyecandy and as references. 
 
+**To download click on release on the right side of the screen**
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/paypalme/Klavio)
 
 # **Artstation Scrapper:**
