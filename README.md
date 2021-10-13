@@ -13,8 +13,3 @@ Artstation Scrapper is a program that was intentionally built to help me find dr
 
 # **Examples with pictures**
 
-# **Donations**
-
-If you liked this project please consider donating.
-
- Paypal:         https://www.paypal.com/paypalme/Klavio
