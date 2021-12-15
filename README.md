@@ -12,9 +12,6 @@ Artstation Scrapper is a program that was intentionally built to help me find dr
   
    ・All the files are saved in a created directory by the program which can be accessed.
    
-   # **To run:**
-
-   ・Open Windows Powershell, go to the directory of the project and type ``dotnet run``
   
 
 # **Examples with pictures**
