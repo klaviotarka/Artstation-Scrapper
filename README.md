@@ -14,7 +14,7 @@ Artstation Scrapper is a program that was intentionally built to help me find dr
    
    # **To run:**
 
-   ・Open Windows Powershell, go to the directory of the project and type dotnet run
+   ・Open Windows Powershell, go to the directory of the project and type ``dotnet run``
   
 
 # **Examples with pictures**
